@@ -1,0 +1,14 @@
+.movieDetails {
+  display: flex;
+  gap: 30px;
+}
+.movieDetailsBtn {
+  padding: 4px 4px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #191d1e;
+  color: #191d1e;
+  font-size: 16px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
